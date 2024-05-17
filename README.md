@@ -1,2 +1,3 @@
 # Bayesian-works
-Scripts for my academic tasks in Bayesian statistics.
+Test run of Python scripts for academic tasks in Bayesian statistics.
+All codes in courtesy of my academic instructor. 
